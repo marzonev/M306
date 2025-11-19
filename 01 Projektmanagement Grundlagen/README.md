@@ -1,4 +1,4 @@
-# Projektfragen – Ausführliche Antworten (Markdown)
+# Projektmanagement Grundlagen
 
 ## 1. Was ist ein Projekt?
 
